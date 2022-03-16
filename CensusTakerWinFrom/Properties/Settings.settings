@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CensusTakerWinFrom.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">database.db</Value>
+    </Setting>
+    <Setting Name="AddressBookProperties" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">0, 0, 0, 0</Value>
+    </Setting>
+    <Setting Name="PersonalAccountProperties" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">0, 0, 0, 0</Value>
+    </Setting>
+    <Setting Name="OperationProperties" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">0, 0, 0, 0</Value>
+    </Setting>
+    <Setting Name="MainProperties" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">0, 0, 0, 0</Value>
+    </Setting>
+    <Setting Name="ZoomCheckProperties" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">0, 0, 0, 0</Value>
+    </Setting>
+    <Setting Name="SettingPropertirs" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">0, 0, 0, 0</Value>
+    </Setting>
+    <Setting Name="KeyString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Сбербанк</Value>
+    </Setting>
+    <Setting Name="KeyPersonalAcc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ЛИЦЕВОЙ СЧЕТ|ЛИЦЕВОЙ|СЧЕТ</Value>
+    </Setting>
+    <Setting Name="KeyDate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ДАТА ОПЕРАЦИИ (МСК)|ЧЕК ПО ОПЕРАЦИИ|ДАТА ОПЕРАЦИИ</Value>
+    </Setting>
+    <Setting Name="KeyOld" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ПРЕД. ПОКАЗАНИЯ</Value>
+    </Setting>
+    <Setting Name="KeyNew" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ТЕК. ПОКАЗАНИЯ</Value>
+    </Setting>
+    <Setting Name="KeyCompany" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ПОЛУЧАТЕЛЬ ПЛАТЕЖА|ПОЛУЧАТЕЛЬ</Value>
+    </Setting>
+    <Setting Name="KeyTariff" Type="System.String" Scope="User">
+      <Value Profile="(Default)">СУММА ОПЕРАЦИИ|СУММА ПЛАТЕЖА</Value>
+    </Setting>
+    <Setting Name="KeyCompanyEnd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">БИК|ИНН|КПП</Value>
+    </Setting>
+    <Setting Name="KeyMount" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ReportPropertirs" Type="System.Drawing.Rectangle" Scope="User">
+      <Value Profile="(Default)">0, 0, 0, 0</Value>
+    </Setting>
+    <Setting Name="NoImageFileStream" Type="System.String" Scope="User">
+      <Value Profile="(Default)">image\noimage.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
